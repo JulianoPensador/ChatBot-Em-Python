@@ -33,9 +33,9 @@ bot.set_trainer(ListTrainer)
 
 
 
-#Colocamos o Bot pra treinar em cima das palavras que colocamos la na linha 16,17 e 18
+#Colocamos o Bot pra treinar em cima das palavras que colocamos la na linha 23,24 e 25
 bot.train(ListaDePalavras)
-#Colocamos o Bot pra treinar em cima das palavras que colocamos la na linha 16,17 e 18
+#Colocamos o Bot pra treinar em cima das palavras que colocamos la na linha 23,24 e 25
 
 
 
